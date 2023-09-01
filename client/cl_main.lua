@@ -1,4 +1,4 @@
-local QBCore = exports['qb-core']:GetCoreObject()
+local RSGCore = exports['rsg-core']:GetCoreObject()
 
 local function GetJobs()
     local p = promise.new()
